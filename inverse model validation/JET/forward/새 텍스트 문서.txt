@@ -1,0 +1,12 @@
+./results/12507/inputs/transport coefficient profiles_202503081701.png
+./results/12507/inputs/Source rate_202503081701.png
+./results/12507/inputs/training data points_202503081701.png
+./results/12507/inputs/Source2D_202503081701.png
+./results/12507/outputs/Loss_history_202503081701.dat
+./results/12507/outputs/Loss_history_202503081701.png
+./results/12507/outputs/Loss_history(each term)_202503081701.png
+./results/12507/outputs/data_1_202503081701.npy
+./results/12507/outputs/Q_1_202503081701.npy
+./results/12507/outputs/impurity density_202503081701.png
+./results/12507/outputs/residual_of_PDE_202503081701.npy
+./results/12507/outputs/residual_of_PDE_terms_202503081701.png
